@@ -1,0 +1,1 @@
+print(sorted(str(41063625))==sorted(str(5662310)))
